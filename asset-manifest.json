@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/recycling-app/static/css/main.bdb28d0e.css",
+    "main.js": "/recycling-app/static/js/main.4ae8a5bc.js",
+    "static/js/453.1de4fd85.chunk.js": "/recycling-app/static/js/453.1de4fd85.chunk.js",
+    "static/media/Forest.mp4": "/recycling-app/static/media/Forest.2792e3fb59ffda2c5421.mp4",
+    "static/media/image-removebg-preview.png": "/recycling-app/static/media/image-removebg-preview.6590db8885bd231da87c.png",
+    "static/media/imamu-2_1.png": "/recycling-app/static/media/imamu-2_1.fdc70df952b53e29109a.png",
+    "index.html": "/recycling-app/index.html",
+    "main.bdb28d0e.css.map": "/recycling-app/static/css/main.bdb28d0e.css.map",
+    "main.4ae8a5bc.js.map": "/recycling-app/static/js/main.4ae8a5bc.js.map",
+    "453.1de4fd85.chunk.js.map": "/recycling-app/static/js/453.1de4fd85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdb28d0e.css",
+    "static/js/main.4ae8a5bc.js"
+  ]
+}
